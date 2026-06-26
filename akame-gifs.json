@@ -1,1 +1,17 @@
-{}
+{
+  "gifs": [
+    "https://cdn.jsdelivr.net/gh/SEU_USER/akame-assets@main/assets/gifs/ping.gif"
+  ],
+  "phraseGifs": [
+    "https://cdn.jsdelivr.net/gh/SEU_USER/akame-assets@main/assets/gifs/frase.gif"
+  ],
+  "translateGifs": [
+    "https://cdn.jsdelivr.net/gh/SEU_USER/akame-assets@main/assets/gifs/tr.gif"
+  ],
+  "welcomeGifs": [
+    "https://cdn.jsdelivr.net/gh/SEU_USER/akame-assets@main/assets/gifs/welcome.gif"
+  ],
+  "announceGifs": [
+    "https://cdn.jsdelivr.net/gh/SEU_USER/akame-assets@main/assets/gifs/anunciar.gif"
+  ]
+}
